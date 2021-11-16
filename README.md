@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sivamani
+- 👋 Hi, I’m @Sivamani Working in the Filed of CyberSecurity as a Security Analysit.
 - 👀 I’m interested in becoming a developer Expert
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
