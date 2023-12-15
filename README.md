@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sivamani Working in the Filed of CyberSecurity as a Security Analysit.
-- 👀 I’m interested in becoming a developer Expert
-- 🌱 I’m currently learning TypeScript and Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sivamani Working in the field of CyberSecurity as a Security Analyst.
+- 👀 I’m interested in becoming a Security Expert
+- 🌱 I’m currently learning different CyberSecurity technologies
 
 <!---
 Sivamani70/Sivamani70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
